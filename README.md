@@ -7,4 +7,4 @@ Please create AccuWeather developer account to receive APIkey and paste it in "j
 ![alt text](https://github.com/Vitali-Vitali/JavaScript-AccuWeather-API-WeatherApp/blob/master/WeatherApp.PNG?raw=true)
 
 ## Live Demo
-[Live Demo Link](https://codepen.io/vitali-vitali/pen/QWLmdaM)
+[Live Demo Link](https://codepen.io/vitali-vitali/full/QWLmdaM)
